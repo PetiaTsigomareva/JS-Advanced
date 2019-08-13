@@ -1,0 +1,7 @@
+{
+  "name": "Exercises",
+  "version": "1.0.0",
+  "dependencies": {
+    "mocha": "latest"
+  }
+}
